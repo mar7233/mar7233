@@ -9,7 +9,7 @@
 
 ### 🚀 Currently working on
 
-- 🚗 **TECHNEXUS** (Teknofest): a road-safety AI system that analyzes vehicle camera footage with a dual YOLO11 pipeline, detecting vehicles outside and driver behavior inside the cabin (phone use, yawning, smoking).
+- 🚗 [**TECHNEXUS**](https://github.com/mar7233/technexus) (Teknofest): a road-safety AI system that analyzes vehicle camera footage with a dual YOLO11 pipeline, detecting vehicles outside and driver behavior inside the cabin (phone use, yawning, smoking).
 - 🩺 **Graduation project**: a Flutter + Firebase Android app that alerts a patient's emergency contacts with their live location when an attack is detected by trained models.
 
 ### 🛠️ Tech stack
@@ -42,11 +42,13 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [**TECHNEXUS**](https://github.com/mar7233/technexus) | Teknofest road-safety AI: driver actions, passengers and vehicle info from in-car video (in development) | Python · YOLO11 · OpenCV · Docker |
 | [**MultiHub**](https://github.com/mar7233/MultiHub) | All-in-one mobile app: live exchange rates, news, weather and tasks behind Firebase auth | .NET MAUI · Firebase · REST APIs |
 | [**Samuraizer**](https://github.com/mar7233/Samuraizer) | Web app that summarizes PDF and Word documents | Python · NLTK · Tailwind |
 | [**Biometric Analysis**](https://github.com/mar7233/BSM361Biyometrik-Sistemlere-Giri-_-odev1) | Genuine vs impostor score analysis with FAR, FRR and EER (4.67%) | Python · NumPy · SciPy |
 | [**STM32 Blink Counter**](https://github.com/mar7233/GumuluProje) | Interrupt-driven firmware with button control and Flash persistence | C · STM32 HAL |
 | [**Student Book Rental**](https://github.com/mar7233/student_-bookshop) | Rental, returns and late-fee management system | PHP · MySQL |
+| [**Calculator**](https://github.com/mar7233/Calculator) | Standard and scientific calculator | .NET MAUI · NCalc |
 | [**Daily Helper**](https://github.com/mar7233/Daily-helper) | BMI, loan and color tools in one app | .NET MAUI |
 
 ### 🌍 Languages
